@@ -1,0 +1,116 @@
+{
+    "ui": { 
+        "mdt": "Mobile Data Terminal",
+        "navigation": {
+            "dashboard": "Hovedside",
+            "profiles": "Profiler",
+            "incidents": "Hendelser",
+            "reports": "Rapporter",
+            "documents": "Dokumenter",
+            "dispatch": "Kart",
+            "businesses": "Firmaer",
+            "weapons": "Våpen Register",
+            "cameras": "Kameraer",
+            "evidence" : "Beviser",
+            "vehicles": "SSV",
+            "charges": "Charges",
+            "logs": "Logger",
+            "settings": "Instillinger"
+        },
+        "shared": {
+            "search": "Søk"
+        },
+        "announcements": {
+            "title": "Oppslagstavle",
+            "contextmenu": {
+                "new": "Ny Melding",
+                "edit": "Redigere Melding",
+                "delete": "Delete Melding"
+            },
+            "modal": {
+                "title": "Tittel",
+                "description": "Beskrivelse",
+                "cancel": "Avbryt",
+                "create": "Lag",
+                "save": "Lagre"
+            }
+        },
+        "chat": {
+            "title": "Meldinger",
+            "placeholder": "Send Melding"
+        },
+        "active_officers": {
+            "contextmenu": {
+                "toggleduty": "Toggle Duty",
+                "setcallsign": "Sett Kallesignal",
+                "setradio": "Sett Radio Kanal"
+            }
+        },
+        "active_units": {
+
+        },
+        "profiles": {
+            "manage_profile": "Administrer Profil",
+            "fullname": "Fullt navn",
+            "birthdate": "Fødselsdato",
+            "gender": "Kjønn",
+            "genders": {
+                "male": "Mann",
+                "female": "Kvinne"
+            },
+            "phonenumber": "Telefonnummer",
+            "job": "Jobb",
+            "tags": "Merknader",
+            "gallery": "Galleri",
+            "licences": "Lisenser",
+            "properties": "Eiendommer",
+            "vehicles": "Kjøretøy"
+        },
+        "incidents": {
+            "manage_incident": "Administrer Hendelse",
+            "tags": "Merknader",
+            "evidence": "Beviser",
+            "officers_involved": "Betjenter Involvert",
+            "civilians_involved": "Sivile Involvert",
+            "criminals_involved": "Kriminelle Involvert",
+            "vehicles_involved": "Kjøretøy Involvert",
+            "no_information": "Ingen Informasjon."
+        
+        },
+        "reports": {
+            "manage_report": "Administrer Rapport",
+            "tags": "Merknader",
+            "gallery": "Galleri",
+            "officers_involved": "Betjenter Involvert",
+            "civilians_involved": "Sivile Involvert",
+            "no_information": "Ingen Informasjon."
+        },
+        "dispatch": {
+            "contextmenu": {
+                "waypoint": "Sett Veipunkt",
+                "attach": "Attach",
+                "detach": "Detach"
+            }
+        },
+        "weapons": {
+            "manage_weapon": "Administrer Våpen"
+        },
+        "evidence": {
+
+        },
+        "vehicles": {
+            "manage_vehicle": "Administrer Kjøretøy",
+            "label": "Label",
+            "plate": "Plate",
+            "model": "Model"
+        },
+        "logs": {
+
+        },
+        "settings": {
+
+        }
+    },
+    "open_mdt": "Åpne MDT",
+    "no_valid_job": "Du har ikke en gyldig jobb for dette!"
+}

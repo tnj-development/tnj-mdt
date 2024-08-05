@@ -1,0 +1,115 @@
+{
+    "ui": {
+        "mdt": "Mobile Data Terminal",
+        "navigation": {
+            "dashboard": "Dashboard",
+            "profiles": "Profiles",
+            "incidents": "Incidents",
+            "reports": "Reports",
+            "documents": "Documents",
+            "dispatch": "Dispatch",
+            "businesses": "Businesses",
+            "weapons": "Weapons",
+            "cameras": "Cameras",
+            "evidence" : "Evidence",
+            "vehicles": "Vehicles",
+            "charges": "Charges",
+            "logs": "Logs",
+            "settings": "Settings"
+        },
+        "shared": {
+            "search": "Search"
+        },
+        "announcements": {
+            "title": "Announcements",
+            "contextmenu": {
+                "new": "New Announcement",
+                "edit": "Edit Announcement",
+                "delete": "Delete Announcement"
+            },
+            "modal": {
+                "title": "Title",
+                "description": "Description",
+                "cancel": "Cancel",
+                "create": "Create",
+                "save": "Save"
+            }
+        },
+        "chat": {
+            "title": "Chat",
+            "placeholder": "Type a message"
+        },
+        "active_officers": {
+            "contextmenu": {
+                "toggleduty": "Toggle Duty",
+                "setcallsign": "Set Callsign",
+                "setradio": "Set Radio"
+            }
+        },
+        "active_units": {
+
+        },
+        "profiles": {
+            "manage_profile": "Manage Profile",
+            "fullname": "Fullname",
+            "birthdate": "Birthdate",
+            "gender": "Gender",
+            "genders": {
+                "male": "Male",
+                "female": "Female"
+            },
+            "phonenumber": "Phone Number",
+            "job": "Job",
+            "tags": "Tags",
+            "gallery": "Gallery",
+            "licences": "Licences",
+            "properties": "Properties",
+            "vehicles": "Vehicles"
+        },
+        "incidents": {
+            "manage_incident": "Manage Incident",
+            "tags": "Tags",
+            "evidence": "Evidence",
+            "officers_involved": "Officers Involved",
+            "civilians_involved": "Civilian Involved",
+            "criminals_involved": "Criminals Involved",
+            "no_information": "No Information."
+
+        },
+        "reports": {
+            "manage_report": "Manage Report",
+            "tags": "Tags",
+            "gallery": "Gallery",
+            "officers_involved": "Officers Involved",
+            "civilians_involved": "Civilian Involved",
+            "no_information": "No Information."
+        },
+        "dispatch": {
+            "contextmenu": {
+                "waypoint": "Set Waypoint",
+                "attach": "Attach",
+                "detach": "Detach"
+            }
+        },
+        "weapons": {
+            "manage_weapon": "Manage Weapon"
+        },
+        "evidence": {
+
+        },
+        "vehicles": {
+            "manage_vehicle": "Manage Vehicle",
+            "label": "Label",
+            "plate": "Plate",
+            "model": "Model"
+        },
+        "logs": {
+
+        },
+        "settings": {
+
+        }
+    },
+    "open_mdt": "Open MDT",
+    "no_valid_job": "You don't have a valid job for this!"
+}
